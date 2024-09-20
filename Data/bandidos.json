@@ -22,18 +22,18 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2262-devilduckhd/"
         },
         {
-            "name": "Felix Sack",
-            "rank": "12☠ El Asesor",
-            "highlight": true,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/27/120418-2790383fca28f8e82d28126153e3acacebe86951.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
-        },
-        {
             "name": "Sanchez Can",
             "rank": "12☠ El Asesor",
             "highlight": true,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/22/121086-22fed4e862024962e250b06f154fa7792e0fbc70.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/2789-34tarcan/"
+        },
+        {
+            "name": "Felix Sack",
+            "rank": "12☠ El Asesor",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/27/120418-2790383fca28f8e82d28126153e3acacebe86951.png",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2655-vldarkwolflv/"
         },
         {
             "name": "Emin Can",
@@ -118,6 +118,13 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/67/7007-67eebb0964fde926f5fbccf0cc2c31df846c3470.webp",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1719-wrp-sydney/"
+        },
+        {
+            "name": "Felix Fischmann",
+            "rank": "4☠ Amigo",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/45/122153-45a574315f106440a84582b969dc9cfef0630cd6.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/2028-affen-bruder/"
         }
     ]
 }
